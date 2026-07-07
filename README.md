@@ -1,4 +1,4 @@
-In this project, let's build a **Feedback App** by applying the concepts we have learned till now.
+In this project, let's build a **Feedback App** 
 
 ### Refer to the image below:
 
@@ -25,19 +25,6 @@ In this project, let's build a **Feedback App** by applying the concepts we have
 
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
-</details>
-
-<summary>Colors</summary>
-
-<br/>
-
-<div style="background-color: #ffeeee; width: 150px; padding: 10px; color: black">Hex: #ffeeee</div>
-<div style="background-color: #ffc0bb; width: 150px; padding: 10px; color: black">Hex: #ffc0bb</div>
-<div style="background-color: #ffebeb; width: 150px; padding: 10px; color: black">Hex: #ffebeb</div>
-<div style="background-color: #ffffff; width: 150px; padding: 10px; color: black">Hex: #ffffff</div>
-<div style="background-color: #0f172a; width: 150px; padding: 10px; color: white">Hex: #0f172a</div>
-<div style="background-color: #1e293b; width: 150px; padding: 10px; color: white">Hex: #1e293b</div>
-
 </details>
 
 <details>
