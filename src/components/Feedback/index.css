@@ -1,0 +1,59 @@
+/* Write your CSS code here. */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 35px;
+  border-radius: 15px;
+}
+.customer-feedback {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 25px;
+  color: #0f172a;
+}
+.emoji-image {
+  width: 80px;
+  height: 80px;
+}
+.emojis {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.emoji-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 25px;
+}
+.response {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.love-emoji {
+  width: 80px;
+  height: 80px;
+}
+.description{
+  font-family: "roboto";
+  font-size: 18px;
+  color: #1e293b;
+}
