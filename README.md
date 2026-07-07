@@ -27,57 +27,6 @@ In this project, let's build a **Feedback App** by applying the concepts we have
 - Start up the app using `npm start`
 </details>
 
-### Completion Instructions
-
-<details>
-<summary>Functionality to be added</summary>
-<br/>
-
-The app must have the following functionalities
-
-- When an emoji is clicked, then the thank you screen should be displayed
-- The `Feedback` component receives the `resources` as a prop. It consists of the following properties
-
-  |     Key      |    Data Type     |
-  | :----------: | :--------------: |
-  |    emojis    | Array \<object\> |
-  | loveEmojiUrl |      String      |
-
-- `emojis` consists of list of emoji objects with the following properties in each emoji object
-
-  |   Key    | Data Type |
-  | :------: | :-------: |
-  |    id    |  Number   |
-  |   name   |  String   |
-  | imageUrl |  String   |
-
-</details>
-
-<details>
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `src/components/Feedback/index.js`
-- `src/components/Feedback/index.css`
-</details>
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- The love emoji should have the alt as **love emoji**
-- The emojis should have the alt equal to `name` value in each emoji object
-
-</details>
-
-<details>
 <summary>Colors</summary>
 
 <br/>
@@ -98,9 +47,5 @@ Use these files to complete the implementation:
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+### Deployed Link
+  https://feedbackccbp.ccbp.tech/
